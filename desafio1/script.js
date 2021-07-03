@@ -5,7 +5,7 @@ alert("Para continuar, necesitamos que complete la información solicitada a con
 let nombreIngresado, appellidoIngresado, emailIngresado;
 
 nombreIngresado = prompt("¿Cuál es tu nombre?");
-appellidoIngresado = prompt("¿Cuál es tu appellido?");
+appellidoIngresado = prompt("¿Cuál es tu apellido?");
 emailIngresado = prompt("¿Cuál es tu email?");
 alert("Confirmas que el mail " + emailIngresado + " es correcto?");
 
